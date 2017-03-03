@@ -1,0 +1,15 @@
+@import "settings";
+@import "../../vendor/foundation-sites/assets/foundation";
+
+
+.nav#mobile-main-menu.top-bar {
+  .div.top-bar-right { 
+    .ul.vertical.medium-horizontal.menu { 
+      .li { 
+        .a { 
+          text-align: center 
+        } 
+      } 
+    } 
+  } 
+}
